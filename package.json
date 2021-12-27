@@ -1,0 +1,25 @@
+{
+  "name": "crypto-coven-sales-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatguyintech/crypto-coven-sales-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatguyintech/crypto-coven-sales-bot/issues"
+  },
+  "homepage": "https://github.com/thatguyintech/crypto-coven-sales-bot#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
